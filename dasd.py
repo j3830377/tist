@@ -1,0 +1,2 @@
+x="fsdfsfs"
+print(x)
