@@ -1,2 +1,2 @@
-x="ddsfsdfsdfsd"
+x="ddsfsdsd"
 print(x)
